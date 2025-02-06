@@ -1,3 +1,7 @@
+# Thief In The House
+This is an SPA web application made using Next.js and Tensorflow.js. The application can detect the presence of a person in the house using the webcam of the user's device. The application uses the PoseNet model from Tensorflow.js to detect the presence of a person in the house. The application is useful in detecting different objects and specially catching thief.
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
